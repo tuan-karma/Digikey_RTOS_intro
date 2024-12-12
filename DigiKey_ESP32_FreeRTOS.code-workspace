@@ -1,0 +1,58 @@
+{
+	"folders": [
+		{
+			"path": "ESP32_FreeRTOS_Part2"
+		},
+		{
+			"name": "Part3",
+			"path": "Part3"
+		},
+		{
+			"name": "Part4_Heap_Demo",
+			"path": "Part4_Heap_Demo"
+		},
+		{
+			"name": "Part5_Queue_Demo",
+			"path": "Part5_Queue_Demo"
+		},
+		{
+			"name": "Part5_Queue_Exercise",
+			"path": "Part5_Queue_Exercise"
+		},
+		{
+			"name": "Part6_Mutex_Hack",
+			"path": "Part6_Mutex_Hack"
+		},
+		{
+			"name": "Part7_Semaphore",
+			"path": "Part7_Semaphore"
+		},
+		{
+			"name": "Part8_RTOS_Timers",
+			"path": "Part8_RTOS_Timers"
+		},
+		{
+			"name": "Part9_Hardware_Interrupts",
+			"path": "Part9_Hardware_Interrupts"
+		},
+		{
+			"name": "Part10_Deadlock_Starvation",
+			"path": "Part10_Deadlock_Starvation"
+		},
+		{
+			"name": "Part11_Priority_Inversion",
+			"path": "Part11_Priority_Inversion"
+		},
+		{
+			"name": "Part12_Multicore_Systems",
+			"path": "Part12_Multicore_Systems"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp",
+			"array": "cpp",
+			"tuple": "cpp"
+		}
+	}
+}
